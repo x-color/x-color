@@ -7,10 +7,12 @@
 
 ## Certifications
 
-<img src="./resources/aws-certified-cloud-practitioner.png" width="150">
-<img src="./resources/aws-certified-sysops-administrator-associate.png" width="150">
-<img src="./resources/aws-certified-solutions-architect-associate.png" width="150">
-<img src="./resources/aws-certified-developer-associate.png" width="150">
-<img src="./resources/aws-certified-solutions-architect-professional.png" width="150">
-<img src="./resources/aws-certified-devops-engineer-professional.png" width="150">
-<img src="./resources/aws-certified-security-specialty.png" width="150">
+ <div>
+    <img src="./resources/aws-certified-cloud-practitioner.png" width="150">
+    <img src="./resources/aws-certified-sysops-administrator-associate.png" width="150">
+    <img src="./resources/aws-certified-solutions-architect-associate.png" width="150">
+    <img src="./resources/aws-certified-developer-associate.png" width="150">
+    <img src="./resources/aws-certified-solutions-architect-professional.png" width="150">
+    <img src="./resources/aws-certified-devops-engineer-professional.png" width="150">
+    <img src="./resources/aws-certified-security-specialty.png" width="150">
+</div>
