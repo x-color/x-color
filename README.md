@@ -15,4 +15,5 @@
     <img src="./resources/aws-certified-solutions-architect-professional.png" width="150">
     <img src="./resources/aws-certified-devops-engineer-professional.png" width="150">
     <img src="./resources/aws-certified-security-specialty.png" width="150">
+    <img src="./resources/aws-certified-advanced-networking-specialty.png" width="150">
 </div>
