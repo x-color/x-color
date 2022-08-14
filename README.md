@@ -5,8 +5,6 @@
 [![x-color's github stats](https://github-readme-stats.vercel.app/api?username=x-color&show_icons=true&theme=monokai&count_private=true)](https://github.com/x-color)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=x-color&theme=monokai&layout=compact)](https://github.com/x-color)
 
-![profile](./profile-summary-card-output/monokai/0-profile-details.svg)
-
 ## Certifications
 
  <div>
