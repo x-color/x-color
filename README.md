@@ -8,6 +8,7 @@ Hi, my name is `x-color`, and I'm a software engineer specializing in microservi
 - [Qiita](https://qiita.com/x-color)
 - [note](https://note.com/xcolor)
 - [x](https://x.com/xcolor12)
+- [Speaker Deck](https://speakerdeck.com/x-color)
 
 ## My Career
 
@@ -57,6 +58,12 @@ Cloud Engineer (2019/04 - 2021/12)
     <img src="./resources/aws-certified-devops-engineer-professional.png" width="150">
     <img src="./resources/aws-certified-security-specialty.png" width="150">
     <img src="./resources/aws-certified-advanced-networking-specialty.png" width="150">
+</div>
+
+### Google Cloud
+
+<div>
+    <img src="./resources/professional-cloud-architect.png" width="150">
 </div>
 
 ### IPA Examinations
